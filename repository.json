@@ -8,9 +8,9 @@
     },
     "name": "Conrado Poole - Bouni's KiCad repository",
     "packages": {
-        "sha256": "6feae3b7eb0fd9fa247867abebbaee11b65b795e94c4b6e63c52ec3caa62f32a",
-        "update_time_utc": "2025-04-09 17:08:19",
-        "update_timestamp": 1744218499,
+        "sha256": "3514c2f139c12c00a5f363c3bf3e64ab45d9c59188f7bd0277aeb87e5cebace9",
+        "update_time_utc": "2025-04-09 17:13:39",
+        "update_timestamp": 1744218819,
         "url": "https://raw.githubusercontent.com/conradopoole/bouni-kicad-repository/main/packages.json"
     },
     "resources": {
