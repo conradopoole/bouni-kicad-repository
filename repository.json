@@ -6,17 +6,17 @@
         },
         "name": "Bouni"
     },
-    "name": "Bouni's KiCad repository",
+    "name": "Conrado Poole - Bouni's KiCad repository",
     "packages": {
         "sha256": "e7116006e8f31ef1bf5703ec5a0967c01f0481a34307821fa85e2262f68ac471",
         "update_time_utc": "2025-04-02 11:56:04",
         "update_timestamp": 1743594964,
-        "url": "https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/packages.json"
+        "url": "https://raw.githubusercontent.com/conradopoole/bouni-kicad-repository/main/packages.json"
     },
     "resources": {
         "sha256": "7e035e43f934b74adc440889c0df06aa227dbd6febab162b245b72f2a80eb985",
         "update_time_utc": "2021-12-09 08:03:00",
         "update_timestamp": 1639033380,
-        "url": "https://github.com/Bouni/bouni-kicad-repository/raw/main/resources.zip"
+        "url": "https://github.com/conradopoole/bouni-kicad-repository/raw/main/resources.zip"
     }
 }
